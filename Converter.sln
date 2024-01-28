@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{16977CA4-59AC-4735-9935-8296376EACBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uploader", "Uploader\Uploader.csproj", "{16977CA4-59AC-4735-9935-8296376EACBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{792F06AA-1D1D-478F-A9E4-6586DD0E6F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{F3833AA5-02F4-459B-8F75-5744746ED53F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{16977CA4-59AC-4735-9935-8296376EACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16977CA4-59AC-4735-9935-8296376EACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16977CA4-59AC-4735-9935-8296376EACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792F06AA-1D1D-478F-A9E4-6586DD0E6F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792F06AA-1D1D-478F-A9E4-6586DD0E6F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792F06AA-1D1D-478F-A9E4-6586DD0E6F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792F06AA-1D1D-478F-A9E4-6586DD0E6F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3833AA5-02F4-459B-8F75-5744746ED53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3833AA5-02F4-459B-8F75-5744746ED53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3833AA5-02F4-459B-8F75-5744746ED53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3833AA5-02F4-459B-8F75-5744746ED53F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
